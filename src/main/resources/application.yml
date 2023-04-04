@@ -1,0 +1,8 @@
+
+ftp:
+  host: 185.27.134.11
+  port: 21
+  username: epiz_33891104
+  password: CLc195rPV8h3cv
+  prefix: GRP327_
+  directory: /photos
